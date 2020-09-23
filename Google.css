@@ -1,0 +1,29 @@
+
+#menu {
+	width:100%;
+	height:50px;
+	background-color:#FFFFFF;
+	display : flex;
+	flex-direction: row-reverse;
+	border-spacing :1000px;
+	}
+
+.centre {
+	width:100%;
+	height:10000xp;
+	background-color:#FFFFFF;
+	text-align: center;
+	}
+#footer {
+	background:#ccc;
+	position:absolute;
+	bottom:10;
+	width:100%
+	display: flex;
+	flex-wrap : wrap;
+	height:50px;
+	border:1px solid gray;
+	}
+
+.bouton {
+border-spacing : 100 px;}
